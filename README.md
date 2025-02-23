@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 
-- Hi im from Kazakhstan
+-Hi im from Kazakhstan🌏
+-I like football and videogames!⚽🎮
+-My birthday is june 2🎉
